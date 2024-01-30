@@ -1,12 +1,12 @@
 body {
-    font-family: 'Lobster', cursive; /* Change to a romantic cursive font */
+    font-family: 'Inter';
     background-color: #ffdde1;
     display: flex;
     align-items: center;
     justify-content: space-evenly;
     height: 100vh;
     margin: 0;
-    background: url('images/image.jpg') repeat;
+    background-color: pink;
     font-size: 35px;
     color: rgb(255, 0, 174);
 }
@@ -52,7 +52,7 @@ body
     font-size: 26px;
     cursor: pointer;
     position: relative;
-    font-family: 'Lobster', cursive; /* Change to a romantic cursive font */
+    font-style: oblique;
 
 }
 
